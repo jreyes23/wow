@@ -1,0 +1,17 @@
+{
+  "name": "wow",
+  "homepage": "https://github.com/jreyes23/wow",
+  "authors": [
+    "judiel <jreyes@enobasistemas.com>"
+  ],
+  "description": "",
+  "main": ["animate.css","wow.min.js"],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
